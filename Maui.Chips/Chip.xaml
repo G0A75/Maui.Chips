@@ -6,15 +6,15 @@
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:xct="http://xamarin.com/schemas/2020/toolkit"
     mc:Ignorable="d"
-    xmlns:controls="clr-namespace:Xamarin.Forms.Chips"
-    xmlns:converters="clr-namespace:Xamarin.Forms.Chips.Converters"
+    xmlns:controls="clr-namespace:Maui.Chips"
+    xmlns:converters="clr-namespace:Maui.Chips.Converters"
     HasShadow="False"
     CornerRadius="15"
     VerticalOptions="Center"
     HorizontalOptions="Center"
     Margin="0, 0"
     x:DataType="controls:Chip"
-    x:Class="Xamarin.Forms.Chips.Chip"
+    x:Class="Maui.Chips.Chip"
     x:Name="chipRoot">
 
     <Frame.Resources>

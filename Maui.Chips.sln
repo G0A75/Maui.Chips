@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Forms.Chips", "Xamarin.Forms.Chips\Xamarin.Forms.Chips.csproj", "{4D78EFCB-A06C-44C4-B636-D87C44567BDD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maui.Chips", "Maui.Chips\Maui.Chips.csproj", "{4D78EFCB-A06C-44C4-B636-D87C44567BDD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

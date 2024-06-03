@@ -1,7 +1,8 @@
 ﻿using System;
 using System.Windows.Input;
+using Xamarin.Forms;
 
-namespace Xamarin.Forms.Chips
+namespace Maui.Chips
 {
     public partial class Chip : Frame
     {

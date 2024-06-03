@@ -11,7 +11,7 @@
     <Summary>Chip support for Xamarin.Forms.</Summary>
     <PackageTags>Chip, Chips, Xamarin, Xamarin.Forms, Material</PackageTags>
     <Title>Xamarin.Forms.Chips</Title>
-    <PackageId>Xamarin.Forms.Chips</PackageId>
+    <PackageId>Maui.Chips</PackageId>
     <PackageProjectUrl>https://github.com/Tommigun1980/Xamarin.Forms.Chips</PackageProjectUrl>
     <PackageLicenseUrl>https://github.com/Tommigun1980/Xamarin.Forms.Chips/blob/master/LICENSE</PackageLicenseUrl>
     <Configurations>Release;Debug</Configurations>

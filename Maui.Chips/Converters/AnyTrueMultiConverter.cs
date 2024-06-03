@@ -1,8 +1,9 @@
 ﻿using System;
 using System.Globalization;
 using System.ComponentModel;
+using Xamarin.Forms;
 
-namespace Xamarin.Forms.Chips.Converters
+namespace Maui.Chips.Converters
 {
     [EditorBrowsable(EditorBrowsableState.Never)]
     public class AnyTrueMultiConverter : IMultiValueConverter
